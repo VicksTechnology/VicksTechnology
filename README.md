@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VicksTechnology via Eduzor Victor
+- 👋 Hi, I’m Eduzor Victor
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning Data Analaysis, UI/UX design
 - 💞️ I’m looking to collaborate on New projects
